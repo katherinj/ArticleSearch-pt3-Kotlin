@@ -10,15 +10,9 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Add and implement Bottom Navigation to your application
-- [ ] Dynamically use fragments within Activities
-- [ ] Customize the toolbar and icons
-
-The following **optional** features are implemented:
-
-- [ ] Add and implement options in the Settings screen
-- [ ] Customize a Home screen using the Most Popular NYTimes Articles API
-- [ ] Respond to device orientation changes without resetting the application
+- [x] Add and implement Bottom Navigation to your application
+- [x] Dynamically use fragments within Activities
+- [x] Customize the toolbar and icons
 
 ## Video Walkthrough
 
